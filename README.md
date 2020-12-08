@@ -5,3 +5,5 @@ Lab-3 Modifications
 - Modified the color of the ball (red --> cyan)
 - Modified the shape of the ball (square --> circle)
 - Modified the motion of the ball (added horizontal motion)
+
+Final Project: Brick Breaker
